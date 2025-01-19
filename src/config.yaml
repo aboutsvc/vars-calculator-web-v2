@@ -2,7 +2,7 @@ site:
   name: VarsCalculator
   site: 'https://aboutsvc.github.io/vars-calculator-web-v2'
   base: '/vars-calculator-web-v2'
-  trailingSlash: false
+  trailingSlash: true
 
   googleSiteVerificationId: orcPxI47GSa-cRvY11tUe6iGg2IO_RPvnA1q95iEM3M
 
